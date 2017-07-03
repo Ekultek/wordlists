@@ -1,6 +1,3 @@
-PTBR: 28300
-PT: 28358
----
 aijalom
 sadraque
 lenco
